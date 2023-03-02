@@ -5,7 +5,12 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
-Proje .NET C# Windows Form yapısıyla yazılmıştır. Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır. Projede üye olurken şifreler MD5 ile veri tabanına kaydedilmiştir. Beni hatırla butonu ile giriş yapan son kullanıcının bilgileri kayıt olmaktadır. Tekrar girerken kolayca sisteme girebilir. Projeyi 2 katman (DAL,UIForm) olarak yazdık. Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır. Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir. Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
+* Proje .NET C# Windows Form yapısıyla yazılmıştır. 
+* Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
+* Projede üye olurken şifreler MD5 ile veri tabanına kaydedilmiştir. Beni hatırla butonu ile giriş yapan son kullanıcının bilgileri kayıt olmaktadır. Tekrar girerken kolayca sisteme girebilir.
+* Projeyi 2 katman (DAL,UIForm) olarak yazdık. Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır. Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
+
+Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
 ![212544036-2d13cc6b-7272-4aac-be05-67be95cf0d23](https://user-images.githubusercontent.com/73273677/217246604-e6b09296-314e-49ac-b98f-ff97d1e87d01.png)
 ![212544038-f606d4a1-a515-4155-b89a-af91d11e7007](https://user-images.githubusercontent.com/73273677/217246617-94ff1757-87e2-4ba9-aa0f-5aac5717b0f1.png)
